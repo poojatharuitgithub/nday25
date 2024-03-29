@@ -1,0 +1,14 @@
+body{
+    /* background-color: rgb(2, 196, 11); */
+}
+.u-container{
+    max-width: 1000px;
+    margin: 0 auto;
+    /* background-color: rgb(14, 102, 18); */
+}
+.navbar{
+    /* background-color: brown; */
+    max-width: 997px;
+    margin: 0 auto;
+}
+`
